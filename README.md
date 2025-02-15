@@ -1,6 +1,9 @@
 # Competition Link
 https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification
 
+# Timeline
+Feb. 2024 – Apr. 2024
+
 # Introduction
 * Electroencephalogram (EEG) is a common tool for diagnosing seizures in a clinical setting
 * EEG interpretation is a labor-intensive and time-consuming work that currently relies solely on manual analysis of neurologists. 
